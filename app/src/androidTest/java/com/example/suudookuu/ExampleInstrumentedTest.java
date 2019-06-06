@@ -1,4 +1,4 @@
-package com.example.soodookuu;
+package com.example.suudookuu;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

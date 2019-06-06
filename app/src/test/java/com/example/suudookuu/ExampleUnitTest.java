@@ -1,4 +1,4 @@
-package com.example.soodookuu;
+package com.example.suudookuu;
 
 import org.junit.Test;
 
