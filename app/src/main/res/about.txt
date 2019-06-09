@@ -2,3 +2,19 @@ Hello Kevin <3
 
 Color Sudoku
 
+List of features:
+
+
+
+
+
+Pages ---
+Homepage --
+- Continue (optional)
+- Easy
+- Medium
+- Hard
+
+Settings --
+- Toggle numbers
+- theme options
