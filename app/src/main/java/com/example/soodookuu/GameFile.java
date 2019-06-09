@@ -9,8 +9,8 @@ public class GameFile {
     private String fileDirectory;
     private String fileName;
     private String fileExtension;
-    File file;
-    FileOutputStream outputStream;
+    private File file;
+    private FileOutputStream outputStream;
 
     private GameFile()
     {
