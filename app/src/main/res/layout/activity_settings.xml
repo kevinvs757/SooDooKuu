@@ -7,4 +7,11 @@
     android:background="@drawable/light_gradient"
     tools:context=".Settings">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/action_settings"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="48dp" />
 </android.support.constraint.ConstraintLayout>

@@ -3,4 +3,18 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="dark">#333333</color>
+
+
+    <color name="light_color1">#333333</color>
+    <color name="light_color2">#00a055</color>
+    <color name="light_color3">#1abcdc</color>
+    <color name="light_color4">#303584</color>
+    <color name="light_color5">#86328c</color>
+    <color name="light_color6">#e9489d</color>
+    <color name="light_color7">#fff200</color>
+    <color name="light_color8">#f27522</color>
+    <color name="light_color9">#ed1c24</color>
 </resources>
